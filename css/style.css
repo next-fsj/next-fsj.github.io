@@ -183,6 +183,7 @@ div#portfolio {
 }
 .da-thumbs li a {
 	overflow: hidden;
+	z-index: 10;
 }
 .da-thumbs li a div {
   position: absolute;
