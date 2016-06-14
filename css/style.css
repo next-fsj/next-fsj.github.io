@@ -180,11 +180,14 @@ div#portfolio {
   display: block;
   position: relative;
   width: 100%;
+
 }
 .da-thumbs li a {
 	overflow: hidden;
+	  z-index: 2000;
 }
 .da-thumbs li a div {
+  z-index: 200;
   position: absolute;
   background:#111;
   opacity: 0.8;
