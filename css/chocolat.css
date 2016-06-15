@@ -2,7 +2,7 @@ body{
 	margin:0;
 	padding:0;
 }
-/*#Choco_overlay{
+#Choco_overlay{
 	background: #E9F2F5 !important;
 	position: fixed;
 	top: 0;
@@ -13,8 +13,8 @@ body{
 	display:none;
 	padding:0;
 	margin:0;
-}*/
-/*#Choco_content{
+}
+#Choco_content{
 	display:none;
 	width:800px;
 	height:600px;
@@ -25,7 +25,7 @@ body{
 	margin-left:-400px;
 	margin-top:-300px;
 	border-top:1px solid transparent;/*Yes, adjust image perfectly at the center of a box, don't know why.*/
-/**/
+}
 #Choco_left_arrow{
 	float:left;
 	background-image:url(../images/left.png)!important;
